@@ -79,6 +79,7 @@ class TestQueue(unittest.TestCase):
         self.assertEqual(q.pop(), 41)
 
         self.assertTrue(q.is_empty)
+
         pass
 
     def test_queue_with_strings(self):
