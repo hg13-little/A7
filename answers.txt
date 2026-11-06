@@ -1,0 +1,22 @@
+Real World Examples of Queues
+- Waiting for your order at jakes,    
+- when you or cars stop at a red light  
+- waiting in line to order at mcdonalds  
+
+Real world examples of stack  
+- a stack of plates at the cafe  
+- a stack of cups at the cafe 
+- a stack of cookies   
+
+#3
+Passing all the unit test does not automatically mean the program works, so no. the test only check certain situations 
+that get planned for. 
+
+
+
+
+
+#4
+A linked list is better because it can grow or shrink as items are added and removed. 
+A fixed-size array has a limited amount of space, so it can run out of room. 
+Linked lists is easier to add and remove items without having to worry about a set capacity.
