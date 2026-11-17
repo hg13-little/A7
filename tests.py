@@ -59,7 +59,7 @@ class TestStack(unittest.TestCase):
 class TestQueue(unittest.TestCase):
 
     def test_queue_with_ints(self):
-         q = Queue()
+        q = Queue()
 
         q.push(84)
         q.push(13)
