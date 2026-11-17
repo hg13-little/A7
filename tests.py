@@ -11,7 +11,7 @@ from que import Queue
 
 class TestStack(unittest.TestCase):
     def test_stack_with_ints(self):
-         s = Stack()
+        s = Stack()
 
         s.push(42)
         s.push(7)
